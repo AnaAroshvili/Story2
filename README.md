@@ -1,2 +1,3 @@
 # Story2
-the second story
+hello i am anuca and this is my first readme file
+
